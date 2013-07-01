@@ -1,0 +1,23 @@
+{
+  "name": "hubot-dropbox-notifier",
+  "version": "0.0.1",
+  "author": "Matteo Agosti <matteo@matteoagosti.com>",
+  "description": "A dropbox notifier plugin for hubot",
+  "main": "./src/dropbox-notifier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matteoagosti/hubot-dropbox-notifier.git"
+  },
+  "keywords": [
+    "hubot",
+    "dropbox"
+  ],
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "dropbox": "~0.9.2"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
